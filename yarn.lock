@@ -16209,10 +16209,10 @@ tryer@^1.0.1:
   resolved "https://registry.yarnpkg.com/tryer/-/tryer-1.0.1.tgz#f2c85406800b9b0f74c9f7465b81eaad241252f8"
   integrity sha512-c3zayb8/kWWpycWYg87P71E1S1ZL6b6IJxfb5fvsUgsf0S2MVGaDhDXXjDMpdCpfWXqptc+4mXwmiy1ypXqRAA==
 
-ts-essentials@9.0.0:
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/ts-essentials/-/ts-essentials-9.0.0.tgz#6196b7f390926429256c70951c8edd260e8e5097"
-  integrity sha512-pow5YBSknf/PyoDhr8vsb93+hZah/jSzhdHA3GMjSzUuZIDZH+rV7tvN5DCbN4hi7QJXdteDv8D9HdDCSwXBUw==
+ts-essentials@9.2.0:
+  version "9.2.0"
+  resolved "https://registry.yarnpkg.com/ts-essentials/-/ts-essentials-9.2.0.tgz#a6ec69b43d111f107b3e63e27b200d2d22542b55"
+  integrity sha512-HLl+am6q+ulOWcjUFghpIQXXyaH0hVTnFTVWNqwz1iDxyN+t+lwDfqPB5FmPUTFw3J+y26UR3hNGmK/1jehokA==
 
 ts-node@^9:
   version "9.1.1"
