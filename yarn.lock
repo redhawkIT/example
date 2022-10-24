@@ -13908,10 +13908,10 @@ react-native-fast-image@8.5.11:
   resolved "https://registry.yarnpkg.com/react-native-fast-image/-/react-native-fast-image-8.5.11.tgz#e3dc969d0e4e8df026646bf18194465aa55cbc2b"
   integrity sha512-cNW4bIJg3nvKaheG8vGMfqCt5LMWX9MS5+wMudgKIHbGO51spRr4sgnlhVgwHLcZ5aeNOVJ8CPRxDIWKRq/0QA==
 
-react-native-flipper@0.126.0:
-  version "0.126.0"
-  resolved "https://registry.yarnpkg.com/react-native-flipper/-/react-native-flipper-0.126.0.tgz#9a2ca3a52aba309e1bd9fdd0501772804fdfe9ee"
-  integrity sha512-HsWhoc7Aa+KWFsZ/j7mVpVsaq1Oc+MkwkF1fl6Z4oACRZvWFwHbxVcMf72hkWmaEf6X1TD5h9dZeVT8JMW18OA==
+react-native-flipper@0.171.1:
+  version "0.171.1"
+  resolved "https://registry.yarnpkg.com/react-native-flipper/-/react-native-flipper-0.171.1.tgz#78db3179a7ece62a2af622834867891f658e4b4c"
+  integrity sha512-L1gYtgjLQDeF4JQTbR6XCEjSKy0ffpZckK0k8/qcjqzwwB/oSgvXZ7UVbotVW0BTIWMUETyR6FX0/ChAurBI9w==
 
 react-native-gesture-handler@2.1.0:
   version "2.1.0"
